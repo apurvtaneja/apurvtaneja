@@ -1,5 +1,5 @@
 # Hello there, Nice to see you! 👋
-
+<img src="https://c.tenor.com/DSG9ZID25nsAAAAC/hello-there-general-kenobi.gif" style="margin-bottom: 4px;" height="200px">
 
 ## 💻 Things i Code With
 <p>
