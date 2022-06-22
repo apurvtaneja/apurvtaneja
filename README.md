@@ -1,4 +1,4 @@
-# Hey there, Nice to see you! 👋
+# Hello there, Nice to see you! 👋
 
 
 ## 💻 Things i Code With
