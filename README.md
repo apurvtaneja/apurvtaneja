@@ -1,8 +1,6 @@
 # Hey there, Nice to see you! 👋
 
 
-## 💫 Litle Bit About Me
-
 ## 💻 Things i Code With
 <p>
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" style="margin-bottom: 4px;" height="30px">
